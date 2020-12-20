@@ -1,0 +1,16 @@
+body {
+    font-size: 15pt;
+}
+@font-face{
+  font-family: fontSaya;
+  src:url('dancing.ttf');
+}
+.paragraf1{
+  font-family: fontSaya;
+}
+a:hover{
+  color: pink;
+}
+a:visited{
+  color:blue;
+}
